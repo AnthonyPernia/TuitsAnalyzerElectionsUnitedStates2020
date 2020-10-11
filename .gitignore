@@ -4,4 +4,5 @@ keys
 .git
 .ipynb_checkpoins
 .vscode
+__pycache__
 
