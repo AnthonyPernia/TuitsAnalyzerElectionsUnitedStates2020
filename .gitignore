@@ -1,5 +1,6 @@
 .config
 cred.py
+data_cred.py
 keys
 .git
 .ipynb_checkpoins
