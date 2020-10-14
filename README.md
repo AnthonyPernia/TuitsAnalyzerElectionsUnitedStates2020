@@ -9,7 +9,7 @@ Script realizado en Python, para obtener informacion de twitter mediante su API,
 > Hay mas con la palabra TRUMP porque la gente tuitea mas con ese topic.
 
 Origen de los Tuits
-<img src='images/map.png'>
+![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/maps.png)
 
 ### WordCloud en base a Tuits con la palabra = 
 ![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/a_wordcloud.png)
@@ -21,10 +21,21 @@ Origen de los Tuits
 
 
 #### Scatterplot usando analisis de sentimientos con Python Textblob
-##### Polaridad /Polarity (-1 , 1) VS Cantidad de RT 
+##### Cantidad de RT VS Polaridad/Polarity (-1 , 1) 
 
 ![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/a_polarity.png)
-> Tuits Con la palabra TRUMP.
+> Tuits Con la palabra TRUMP (Cantidad de RT VS Polaridad/Polarity).
 
 ![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/b_polarity.png)
-> Tuits Con la palabra BIDEN..
+> Tuits Con la palabra BIDEN (Cantidad de RT VS Polaridad/Polarity).
+
+
+
+#### Histograma usando analisis de sentimientos con Python Textblob
+#####  Cantidad de Tuits VS Polaridad (-1 , 1)
+
+![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/a_hist.png)
+> Tuits Con la palabra TRUMP (Cantidad de Tuits VS Polaridad).
+
+![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/b_hist.png)
+> Tuits Con la palabra BIDEN (Cantidad de Tuits VS Polaridad).
