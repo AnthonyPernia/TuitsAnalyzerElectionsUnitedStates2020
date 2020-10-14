@@ -9,7 +9,7 @@ Script realizado en Python, para obtener informacion de twitter mediante su API,
 > Hay mas con la palabra TRUMP porque la gente tuitea mas con ese topic.
 
 
-{::nomarkdown}
+```html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -29,7 +29,7 @@ Script realizado en Python, para obtener informacion de twitter mediante su API,
   </script>
 </html>
 
-{:/}
+```
 
 
 
