@@ -8,31 +8,8 @@ Script realizado en Python, para obtener informacion de twitter mediante su API,
 | Biden   |             10.000             |
 > Hay mas con la palabra TRUMP porque la gente tuitea mas con ese topic.
 
-
-```html
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-  <meta charset="UTF-8">
-  <title>Document</title>
-</head>
-<body>
-  <div class="menuContainer"></div>
-</body>
-
-  <script>
-    $(document).ready(function () {
-      $('.menuContainer').load('images/my_map.html');
-    });
-  </script>
-</html>
-
-```
-
-
-
+Origen de los Tuits
+<img src='images/map.png'>
 
 ### WordCloud en base a Tuits con la palabra = 
 ![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/a_wordcloud.png)
