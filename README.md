@@ -9,12 +9,39 @@ Script realizado en Python, para obtener informacion de twitter mediante su API,
 > Hay mas con la palabra TRUMP porque la gente tuitea mas con ese topic.
 
 
+{::nomarkdown}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+  <div class="menuContainer"></div>
+</body>
+
+  <script>
+    $(document).ready(function () {
+      $('.menuContainer').load('images/my_map.html');
+    });
+  </script>
+</html>
+
+{:/}
+
+
+
+
 ### WordCloud en base a Tuits con la palabra = 
 ![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/a_wordcloud.png)
 > Tuits Con la palabra TRUMP.
 
+
 ![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/b_wordcloud.png)
 > Tuits Con la palabra BIDEN.
+
 
 #### Scatterplot usando analisis de sentimientos con Python Textblob
 ##### Polaridad /Polarity (-1 , 1) VS Cantidad de RT 
