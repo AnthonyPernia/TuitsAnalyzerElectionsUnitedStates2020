@@ -1,10 +1,10 @@
 # TuitAnalyzer
 
-Script realizado en Python, para obtener informacion de twitter mediante su API, usando Tweepy, para posteriormente almacenarlo en una Base de Datos PostgreSQL en formato JSON, y entonces, en otro script, tambien en el repositorio, Analizar los datos, usando librerias de NLP como NLTK o comunes como RE, y graficando los resultados en Wordclouds o Diagramas de Barras, o de dispersion.
+Script realizado en Python, para obtener informacion de twitter mediante su API, usando Tweepy, para posteriormente almacenarlo en una Base de Datos PostgreSQL en formato JSON, y entonces, en otro script, que esta tambien en el repositorio, analizar los datos, usando librerias de NLP como por ejemplo NLTK, o comunes como RE, y graficando los resultados en Wordclouds, Diagramas de Barras, o de dispersion.
 
 | Topicos | Cantidad de Tuits (Aproximado) |
 | :------ | :----------------------------: |
-| Trump   |             30.000             |
+| Trump   |             40.000             |
 | Biden   |             10.000             |
 > Hay mas con la palabra TRUMP porque la gente tuitea mas con ese topic.
 
@@ -50,3 +50,11 @@ Script realizado en Python, para obtener informacion de twitter mediante su API,
 
 ![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/b_bigrams_more.png)
 > Tuits Con la palabra BIDEN (Cantidad de Tuits VS Bigrams).
+
+
+#### Pointwise Mutual Information (PMI)
+![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/pmi.png)
+> Formula para calcular PMI W
+
+![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/pmi_g.html)
+
