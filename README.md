@@ -8,7 +8,7 @@ Script realizado en Python, para obtener informacion de twitter mediante su API,
 | Biden   |             10.000             |
 > Hay mas con la palabra TRUMP porque la gente tuitea mas con ese topic.
 
-Origen de los Tuits
+### Origen de los Tuits
 ![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/maps.png)
 
 ### WordCloud en base a Tuits con la palabra = 
@@ -39,3 +39,14 @@ Origen de los Tuits
 
 ![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/b_hist.png)
 > Tuits Con la palabra BIDEN (Cantidad de Tuits VS Polaridad).
+
+
+
+#### Grafico de Bi-Gramas mas usados en tuits analizados
+#####  Cantidad de Tuits VS Bigrams
+
+![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/b_bigrams_more.png)
+> Tuits Con la palabra TRUMP (Cantidad de Tuits VS Bigrams).
+
+![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/b_bigrams_more.png)
+> Tuits Con la palabra BIDEN (Cantidad de Tuits VS Bigrams).
