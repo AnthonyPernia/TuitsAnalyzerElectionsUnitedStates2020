@@ -6,4 +6,6 @@ keys
 .ipynb_checkpoins
 .vscode
 __pycache__
+thread.ipynb
+stream.ipynb
 

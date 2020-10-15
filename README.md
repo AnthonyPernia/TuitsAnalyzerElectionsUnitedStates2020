@@ -9,7 +9,10 @@ Script realizado en Python, para obtener informacion de twitter mediante su API,
 > Hay mas con la palabra TRUMP porque la gente tuitea mas con ese topic.
 
 ### Origen de los Tuits
+
 ![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/maps.png)
+
+> https://colab.research.google.com/drive/1XpXIzKZUqQjVqORLeMqMXfvk74dDzlB1#scrollTo=3-D0qDxrc90c&line=4&uniqifier=1
 
 ### WordCloud en base a Tuits con la palabra = 
 ![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/a_wordcloud.png)
@@ -56,5 +59,15 @@ Script realizado en Python, para obtener informacion de twitter mediante su API,
 ![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/pmi.png)
 > Formula para calcular PMI W
 
-![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/pmi_g.html)
+
+
+#### Información Mutua Puntual | Pointwise mutual information (PMI) vs Frecuencia de Bigramas (Log)
+
+![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/a_pmi.png)
+> Trump
+
+![](https://github.com/AnthonyPernia/TuitsAnalyzerElection/blob/master/images/b_pmi.png)
+> Biden
+
+
 
