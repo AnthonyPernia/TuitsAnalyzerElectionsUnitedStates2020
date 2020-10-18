@@ -8,4 +8,4 @@ keys
 __pycache__
 thread.ipynb
 stream.ipynb
-
+data_csv/*
